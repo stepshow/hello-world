@@ -1,2 +1,4 @@
 # hello-world
-first respository
+this is my first time on GitHub. I am excited to learn a lot from everyone here.
+:D
+
